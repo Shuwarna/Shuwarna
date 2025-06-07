@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Shuwarna
-- 👀 I’m interested in sports and listing in music
-- 🌱 I’m currently I'm in grade 12
+-👋 Hi, I'm Shuwarna Rajlawat!
+💻 Tech enthusiast  🎨 Creative coder  🎶 Passionate about blending art & programming
+I love exploring the intersection of technology and creativity—whether it's crafting animations, 
+experimenting with coding projects, or diving into smartphone specs.
+Currently, I'm working on interactive visuals and bringing ideas to life through code!
+✨ Let’s connect and build something awesome!
 - 💞️ I’m looking to collaborate on gadgets 
 - 📫 How to reach me shuwarnashrestha25@gmail.com
 
